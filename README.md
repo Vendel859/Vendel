@@ -1,2 +1,2 @@
 # Kocsik
-## itt láthatsz majd pár kocis
+## itt láthatsz majd pár kocsit
